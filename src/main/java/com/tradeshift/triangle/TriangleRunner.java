@@ -37,6 +37,14 @@ public class TriangleRunner {
             System.out.println("There is less than 3 valid number !!" + ex.getMessage());
 
         }
+        catch(NullPointerException ex){
+            System.out.println("NullPointerException !!" + ex.getMessage());
+        }
+        catch(IllegalArgumentException ex){
+            System.out.println("IllegalArgumentException !!" + ex.getMessage());
+        }
+        
+        
     }
 
 }

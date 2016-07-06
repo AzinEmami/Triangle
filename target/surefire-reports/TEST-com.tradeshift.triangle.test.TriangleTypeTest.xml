@@ -29,7 +29,7 @@
     <property name="maven.ext.class.path" value="C:\Program Files\NetBeans 8.0.2\java\maven-nblib\netbeans-eventspy.jar"/>
     <property name="classworlds.conf" value="C:\Program Files\NetBeans 8.0.2\java\maven\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Azin\Documents\NetBeansProjects\Triangle\src\main\java\dk\zmags\triangle\boundle\ErrorMessages.properties;C:\Program Files\Git\cmd;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -68,13 +68,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[0]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[0]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[0]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[0]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[0]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[0]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[1]" time="0"/>
@@ -84,13 +84,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[1]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[1]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[1]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[1]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[1]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[1]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[2]" time="0"/>
@@ -100,13 +100,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[2]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[2]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[2]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[2]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[2]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[2]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[3]" time="0">
@@ -116,13 +116,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[3]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[3]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[3]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[3]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[3]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[3]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[4]" time="0">
@@ -132,13 +132,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[4]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[4]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[4]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[4]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[4]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[4]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[5]" time="0">
@@ -148,13 +148,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[5]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[5]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[5]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[5]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[5]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[5]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[6]" time="0">
@@ -166,13 +166,13 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[6]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[6]" time="0"/>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[6]" time="0">
-    <skipped/>
-  </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[6]" time="0">
     <skipped/>
   </testcase>
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[6]" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[6]" time="0"/>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[7]" time="0">
     <skipped/>
   </testcase>
@@ -180,13 +180,13 @@
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[7]" time="0"/>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[7]" time="0">
-    <skipped/>
-  </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[7]" time="0">
-    <skipped/>
-  </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[7]" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[7]" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[7]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[8]" time="0">
@@ -198,11 +198,11 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[8]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[8]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[8]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[8]" time="0"/>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[8]" time="0">
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[8]" time="0">
     <skipped/>
   </testcase>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="scaleneTypeTest[9]" time="0">
@@ -214,11 +214,11 @@
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notScaleneTypeTest[9]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[9]" time="0">
-    <skipped/>
-  </testcase>
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[9]" time="0"/>
   <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notIsoscelesTypeTest[9]" time="0">
     <skipped/>
   </testcase>
-  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="notEquilateralTypeTest[9]" time="0"/>
+  <testcase classname="com.tradeshift.triangle.test.TriangleTypeTest" name="equilateralTypeTest[9]" time="0">
+    <skipped/>
+  </testcase>
 </testsuite>
